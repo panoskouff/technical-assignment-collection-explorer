@@ -1,0 +1,317 @@
+[
+  {
+    "customerId": 1,
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@email.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "customerId": 2,
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob.johnson@email.com",
+    "phone": "987-654-3210"
+  },
+  {
+    "customerId": 3,
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "charlie.brown@email.com",
+    "phone": "555-444-3333"
+  },
+  {
+    "customerId": 4,
+    "firstName": "David",
+    "lastName": "Williams",
+    "email": "david.williams@email.com",
+    "phone": "222-333-4444"
+  },
+  {
+    "customerId": 5,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emily.davis@email.com",
+    "phone": "666-777-8888"
+  },
+  {
+    "customerId": 6,
+    "firstName": "Sarah",
+    "lastName": "Rodriguez",
+    "email": "sarah.rodriguez@fastmail.com",
+    "phone": "976-290-4974"
+  },
+  {
+    "customerId": 7,
+    "firstName": "Karen",
+    "lastName": "Rodriguez",
+    "email": "karen.rodriguez@fastmail.com",
+    "phone": "147-655-4347"
+  },
+  {
+    "customerId": 8,
+    "firstName": "William",
+    "lastName": "Smith",
+    "email": "william.smith@yahoo.com",
+    "phone": "102-824-5196"
+  },
+  {
+    "customerId": 9,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emily.davis@yahoo.com",
+    "phone": "502-607-3583"
+  },
+  {
+    "customerId": 10,
+    "firstName": "Michael",
+    "lastName": "Martinez",
+    "email": "michael.martinez@yahoo.com",
+    "phone": "231-604-6060"
+  },
+  {
+    "customerId": 11,
+    "firstName": "Karen",
+    "lastName": "Jones",
+    "email": "karen.jones@fastmail.com",
+    "phone": "587-348-8324"
+  },
+  {
+    "customerId": 12,
+    "firstName": "Jessica",
+    "lastName": "Smith",
+    "email": "jessica.smith@email.com",
+    "phone": "180-831-4188"
+  },
+  {
+    "customerId": 13,
+    "firstName": "Emily",
+    "lastName": "Garcia",
+    "email": "emily.garcia@yahoo.com",
+    "phone": "340-629-3069"
+  },
+  {
+    "customerId": 14,
+    "firstName": "Paul",
+    "lastName": "Smith",
+    "email": "paul.smith@fastmail.com",
+    "phone": "805-270-7741"
+  },
+  {
+    "customerId": 15,
+    "firstName": "Nancy",
+    "lastName": "Smith",
+    "email": "nancy.smith@fastmail.com",
+    "phone": "608-480-1719"
+  },
+  {
+    "customerId": 16,
+    "firstName": "Michael",
+    "lastName": "Rodriguez",
+    "email": "michael.rodriguez@inbox.com",
+    "phone": "322-562-7176"
+  },
+  {
+    "customerId": 17,
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "email": "sarah.williams@email.com",
+    "phone": "699-306-3073"
+  },
+  {
+    "customerId": 18,
+    "firstName": "Michael",
+    "lastName": "Rodriguez",
+    "email": "michael.rodriguez@mail.com",
+    "phone": "730-633-2690"
+  },
+  {
+    "customerId": 19,
+    "firstName": "William",
+    "lastName": "Rodriguez",
+    "email": "william.rodriguez@yahoo.com",
+    "phone": "610-366-4498"
+  },
+  {
+    "customerId": 20,
+    "firstName": "William",
+    "lastName": "Garcia",
+    "email": "william.garcia@email.com",
+    "phone": "347-149-6673"
+  },
+  {
+    "customerId": 21,
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "email": "michael.williams@mail.com",
+    "phone": "722-286-7504"
+  },
+  {
+    "customerId": 22,
+    "firstName": "Paul",
+    "lastName": "Johnson",
+    "email": "paul.johnson@yahoo.com",
+    "phone": "315-715-2008"
+  },
+  {
+    "customerId": 23,
+    "firstName": "Sarah",
+    "lastName": "Martinez",
+    "email": "sarah.martinez@fastmail.com",
+    "phone": "217-967-1390"
+  },
+  {
+    "customerId": 24,
+    "firstName": "Karen",
+    "lastName": "Jones",
+    "email": "karen.jones@gmail.com",
+    "phone": "275-218-7662"
+  },
+  {
+    "customerId": 25,
+    "firstName": "Karen",
+    "lastName": "Rodriguez",
+    "email": "karen.rodriguez@email.com",
+    "phone": "169-518-9252"
+  },
+  {
+    "customerId": 26,
+    "firstName": "Nancy",
+    "lastName": "Garcia",
+    "email": "nancy.garcia@gmail.com",
+    "phone": "927-457-5276"
+  },
+  {
+    "customerId": 27,
+    "firstName": "Jessica",
+    "lastName": "Williams",
+    "email": "jessica.williams@fastmail.com",
+    "phone": "451-556-7894"
+  },
+  {
+    "customerId": 28,
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "email": "michael.williams@mail.com",
+    "phone": "402-482-2989"
+  },
+  {
+    "customerId": 29,
+    "firstName": "William",
+    "lastName": "Williams",
+    "email": "william.williams@email.com",
+    "phone": "691-959-3830"
+  },
+  {
+    "customerId": 30,
+    "firstName": "John",
+    "lastName": "Garcia",
+    "email": "john.garcia@mail.com",
+    "phone": "226-435-7417"
+  },
+  {
+    "customerId": 31,
+    "firstName": "Michael",
+    "lastName": "Garcia",
+    "email": "michael.garcia@gmail.com",
+    "phone": "333-811-7129"
+  },
+  {
+    "customerId": 32,
+    "firstName": "Karen",
+    "lastName": "Johnson",
+    "email": "karen.johnson@email.com",
+    "phone": "970-550-4746"
+  },
+  {
+    "customerId": 33,
+    "firstName": "Paul",
+    "lastName": "Williams",
+    "email": "paul.williams@yahoo.com",
+    "phone": "945-339-5522"
+  },
+  {
+    "customerId": 34,
+    "firstName": "William",
+    "lastName": "Johnson",
+    "email": "william.johnson@inbox.com",
+    "phone": "116-762-1859"
+  },
+  {
+    "customerId": 35,
+    "firstName": "Sarah",
+    "lastName": "Rodriguez",
+    "email": "sarah.rodriguez@gmail.com",
+    "phone": "214-687-7232"
+  },
+  {
+    "customerId": 36,
+    "firstName": "Sarah",
+    "lastName": "Jones",
+    "email": "sarah.jones@yahoo.com",
+    "phone": "408-473-2801"
+  },
+  {
+    "customerId": 37,
+    "firstName": "Linda",
+    "lastName": "Garcia",
+    "email": "linda.garcia@fastmail.com",
+    "phone": "519-222-9421"
+  },
+  {
+    "customerId": 38,
+    "firstName": "William",
+    "lastName": "Smith",
+    "email": "william.smith@fastmail.com",
+    "phone": "617-471-3968"
+  },
+  {
+    "customerId": 39,
+    "firstName": "Karen",
+    "lastName": "Jones",
+    "email": "karen.jones@yahoo.com",
+    "phone": "911-951-1263"
+  },
+  {
+    "customerId": 40,
+    "firstName": "John",
+    "lastName": "Brown",
+    "email": "john.brown@mail.com",
+    "phone": "596-383-8857"
+  },
+  {
+    "customerId": 41,
+    "firstName": "Jessica",
+    "lastName": "Smith",
+    "email": "jessica.smith@gmail.com",
+    "phone": "957-391-8870"
+  },
+  {
+    "customerId": 42,
+    "firstName": "Paul",
+    "lastName": "Martinez",
+    "email": "paul.martinez@yahoo.com",
+    "phone": "550-979-5199"
+  },
+  {
+    "customerId": 43,
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "email": "emily.brown@fastmail.com",
+    "phone": "296-871-5459"
+  },
+  {
+    "customerId": 44,
+    "firstName": "Sarah",
+    "lastName": "Martinez",
+    "email": "sarah.martinez@gmail.com",
+    "phone": "389-770-8696"
+  },
+  {
+    "customerId": 45,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emily.davis@email.com",
+    "phone": "889-555-8962"
+  }
+]

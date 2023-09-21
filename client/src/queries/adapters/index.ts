@@ -1,0 +1,1 @@
+export { adaptCustomers } from './adaptCustomers';
