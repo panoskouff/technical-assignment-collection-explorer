@@ -1,6 +1,7 @@
 # Collection Explorer
 
 This project is a collection explorer that provides a UI for data exploration and search functionality. The client makes requests to the server at `http://localhost:3000/api/mockdata/customers`, which then adapts the returned data to conform to the type `[{id: string} & Record<string, string>]`. Users can search for records based on any key present in the adapted data array.
+<img width="990" alt="image" src="https://github.com/panoskouff/technical-assignment-collection-explorer/assets/107889674/b7aa8938-44b0-447f-bfb6-dd84a5aa1b16">
 
 ## Stack
 
